@@ -34,10 +34,10 @@ mycursor = mydb.cursor()
 
 #from tweepy import OAuthHandler
  
-consumer_key="5YeejO2mjW5OCi8PGU90Ug1Yv"
-consumer_secret="IeIV03egRWq87esqBxAVec36zpUOb3N1XbEeVithMm22tje7D3"
-access_token="988613367928569856-QbzlZUzylGrUO6BMaJBZL0W7l4IyBzF"
-access_token_secret="3CefknQYUEe1O0bZHKK6wKwMZYQoLkctTpA1E3mkgWOAo"
+consumer_key=""
+consumer_secret=""
+access_token=""
+access_token_secret=""
 
  
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
